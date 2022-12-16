@@ -8,6 +8,8 @@ public class Eg1 {
 		System.out.println(a);
 		int b=5;
 		System.out.println(b);
+		int c=20;
+		System.out.println(c);
 	}
 
 }
